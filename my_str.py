@@ -42,4 +42,5 @@ class xyz : #<-----Replace xyz-make a new class, MyStr, that inherits from str
         #       do this in as little as 1 line.
         #YOUR CODE BELOW:
         #################
+        ('aAaA').replace('a','b')
         
